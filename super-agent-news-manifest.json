@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[Memeburn](https://memeburn.com)",
+    "[ALM Corp](https://www.alm.com)",
+    "[ecommercenews.com.au](https://ecommercenews.com.au)",
+    "[Intelligent CIO](https://www.intelligentcio.com)",
+    "[citybiz](https://www.citybiz.co)",
+    "[Dark Reading](https://www.darkreading.com)",
+    "[Time Magazine](https://time.com)",
+    "[openai.com](https://openai.com/index/genspark/)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=3; aida_check=pass; bento_density=grid-auto-flow:dense verified; label_sweep=competitors mentioned; button_contrast=AA+",
+  "generated_at": "2026-07-01T07:01:52.585740+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who want to turn calls, DMs, and meetings into durable content and repeatable operations. Positions Super as the sharper alternative to chat\u2011first AI tools by emphasizing real computer use and a reusable computer\u2011use cache, grounded in current market evidence around agentic AI and workflow automation."
+}
